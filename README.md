@@ -196,6 +196,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [node-dogecoin](https://github.com/countable/node-dogecoin)
 - [Dogecoin Code Snippets](https://github.com/brotchie/dogecoin-code-snippets)
 - [Dogecoin Testnet](https://github.com/Dirrot/dogecoin-testnet)
+- [Doge Assets (multimedia)](https://github.com/jdaverth/doge_assets)
 
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
