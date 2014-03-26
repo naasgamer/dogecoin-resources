@@ -39,7 +39,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## REST APIs
 - [DogeAPI](http://dogeapi.com/)
 - [Vault of Satoshi](https://www.vaultofsatoshi.com/api)
-- [Moolah](https://moolah.ch/)
+- [Moolah](https://moolah.io/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
@@ -118,6 +118,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Exchanges
 
 - [Vault of Satoshi](https://www.vaultofsatoshi.com/)
+- [Prelude](https://www.vaultofsatoshi.com/)
 - [BTER](https://bter.com/trade/doge_btc)
 - [BTC38.com](http://www.btc38.com/trade.html?btc38_trade_coin_name=dog)
 - [ANXPRO](https://anxpro.com/)
