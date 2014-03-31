@@ -165,6 +165,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Sir Doge (funny faucet with very big rewards)](http://www.sirdoge.com/)
 - [Bartstuff Faucet](http://bartstuff.eu/doge/doge2.php)
 - [Full list of dogecoin faucets](http://freedogecoins.net)
+- [MattysMining.com DOGE Faucet](http://dogefaucet.mattysmining.com/)
 
 ## Games
 - [ShibaDice](http://shibadice.com/)
